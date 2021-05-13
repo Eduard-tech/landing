@@ -1,0 +1,21 @@
+footer {
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #2c2b2b;
+}
+
+.links {
+    font-size: 20px;
+    text-align: center;
+    margin: 20px auto; 
+}
+i {
+    font-size: 30px;
+    color:darkgreen;
+}
+
+.links p {
+    font-weight: bold;
+    color:darkgrey;
+}
